@@ -2,7 +2,7 @@ import App from './app'
 import * as bodyParser from 'body-parser'
 
 const app = new App({
-    port: 5000,
+    port: 8000,
     controllers: [
 
     ],
